@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+    background-size: cover;
+}
+
+
+.container {
+
+    padding: 35px;
+    text-align: left;
+    background: #1abc9c;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+    
+
+}
+
+
+.item {
+
+    text-align: center;
+}
+
+
